@@ -6,3 +6,5 @@ Favorites are stored in AsyncStorage, ensuring they persist even after re-entry.
 
 Egy Crypto alkalmazás ami egy üdvözlő képernyővel indul. Majd átnavigál a Crypto componensre ahol api hivás segítségével megjelennek a cryptok. Ezek közt lehet keresni , és elmenteni a kedvencek közé. 
 Ha több információt szeretnék tudni akkor rákkatintva külön oldalon ezek is megjelennek. A kedvenceket AsyncStorage-ba menti így újboli belépésnél is megmaradnak. Az adatok maguktól frissülnek. 
+
+<img src="crypto%20images/home.jpg" alt="home">
