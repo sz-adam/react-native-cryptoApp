@@ -23,7 +23,7 @@ const Crypto = () => {
     }
 
     useEffect(() => {
-        let intervalHandler = setInterval(updateCurrency, 20000);
+        let intervalHandler = setInterval(updateCurrency, 200000);
         return () => {
           clearInterval(intervalHandler);
         }
