@@ -8,3 +8,9 @@ Egy Crypto alkalmazás ami egy üdvözlő képernyővel indul. Majd átnavigál 
 Ha több információt szeretnék tudni akkor rákkatintva külön oldalon ezek is megjelennek. A kedvenceket AsyncStorage-ba menti így újboli belépésnél is megmaradnak. Az adatok maguktól frissülnek. 
 
 <img src="crypto%20images/home.jpg" alt="home">
+<img src="crypto%20images/crypto.jpg" alt="crypto">
+<img src="crypto%20images/crypto2.jpg" alt="crypto2">
+<img src="crypto%20images/crypto-search.jpg" alt="crypto-search">
+<img src="crypto%20images/crypto-details.jpg" alt="crypto-details">
+<img src="crypto%20images/favorites.jpg" alt="favorites">
+
